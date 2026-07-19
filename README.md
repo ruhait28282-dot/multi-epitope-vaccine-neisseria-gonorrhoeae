@@ -60,3 +60,4 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 | Codon Optimization | JCat |
 | In Silico Cloning | Serial Cloner |
 | Immune Simulation | C-ImmSim |
+
