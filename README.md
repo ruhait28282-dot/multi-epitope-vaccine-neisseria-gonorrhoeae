@@ -61,3 +61,33 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 | In Silico Cloning | Serial Cloner |
 | Immune Simulation | C-ImmSim |
 
+---
+
+## 📊 Key Results
+
+| Parameter | Result |
+|-----------|--------|
+| Vaccine Construct Length | 354 amino acids |
+| Optimized Coding Sequence | 936 bp |
+| Allergenicity | Non-allergenic |
+| Solubility | Soluble |
+| Ramachandran Plot | 93.5% residues in most favored regions (98.0% favored after refinement) |
+| ERRAT Quality Score | 66.087% |
+| Best Docking Score (TLR3) | -1183.0 |
+| Molecular Dynamics Analysis | Stable vaccine–TLR3 complex supported by iMODS |
+| Immune Simulation | Strong immune response with antigen clearance by Day 5 |
+| Peak IFN-γ Response | ~420,000 ng/mL (Day 10) |
+| Codon Adaptation Index (CAI) | Improved from 0.7325 to 0.9574 |
+| GC Content | Improved from 64.93% to 70.36% |
+
+---
+
+### Highlights
+
+- Successfully designed a computational multi-epitope vaccine candidate against *Neisseria gonorrhoeae*.
+- Predicted vaccine construct was non-allergenic and soluble.
+- Structural refinement improved model quality before docking.
+- Molecular docking demonstrated favorable interaction with TLR3.
+- iMODS analysis suggested a stable vaccine–receptor complex.
+- Immune simulation predicted robust humoral and cellular immune responses.
+- Codon optimization improved the construct for potential expression in Homo sapien.
