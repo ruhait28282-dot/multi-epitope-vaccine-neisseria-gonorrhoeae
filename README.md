@@ -39,6 +39,24 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 15. Codon optimization using JCat.
 17. In silico cloning into the pET-28a(+) expression vector using Serial Cloner.
 18. Immune simulation using C-ImmSim.
----
 
 ---
+
+| Category | Tools |
+|----------|-------|
+| Protein Database | UniProt |
+| Redundancy Removal | CD-HIT |
+| Essential Protein Analysis | DEG |
+| Subcellular Localization | PSORTb, CELLO |
+| Antigenicity Prediction | VaxiJen |
+| Allergenicity Prediction | AllerTOP |
+| Epitope Prediction | IEDB Analysis Resource |
+| Population Coverage | IEDB Population Coverage |
+| Structure Prediction | AlphaFold |
+| Structure Refinement | GalaxyRefine |
+| Structure Validation | PROCHECK (Ramachandran Plot), ERRAT |
+| Molecular Docking | ClusPro |
+| Molecular Dynamics | iMODS |
+| Codon Optimization | JCat |
+| In Silico Cloning | Serial Cloner |
+| Immune Simulation | C-ImmSim |
