@@ -107,7 +107,7 @@ The refined vaccine model was evaluated using Ramachandran plot analysis to asse
 ERRAT analysis was performed to evaluate the overall quality of the refined three-dimensional vaccine structure based on non-bonded atomic interactions.
 
 <p align="center">
-  <img src="Screenshot%202026-07-08%20005701.png" width="700">
+  <img src="errat.png" width="700">
 </p>
 
 *Figure 4. ERRAT plot showing the overall structural quality assessment of the refined vaccine model.*
