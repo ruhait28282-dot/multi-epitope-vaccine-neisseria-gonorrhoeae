@@ -1,13 +1,5 @@
 # 🧬 Multi-Epitope Vaccine Design Against *Neisseria gonorrhoeae*
 
-## 🧭 Computational Workflow
-
-![Computational Workflow](Workflow/pipleline.png)
-
-*Figure 1. Computational workflow illustrating the reverse vaccinology and immunoinformatics pipeline used for the computational design and evaluation of a multi-epitope vaccine candidate against* **Neisseria gonorrhoeae**.
-
----
-
 ## Project Overview
 
 This repository documents my undergraduate research project focused on the computational design and evaluation of a multi-epitope vaccine candidate against *Neisseria gonorrhoeae* using reverse vaccinology and immunoinformatics approaches.
@@ -23,6 +15,14 @@ The project integrates bioinformatics, structural biology, and computational imm
 - Design a multi-epitope vaccine construct.
 - Evaluate structural quality and stability.
 - Assess the vaccine candidate using computational validation techniques.
+
+---
+
+## 🧭 Computational Workflow
+
+![Computational Workflow](Workflow/pipleline.png)
+
+*Figure 1. Computational workflow illustrating the reverse vaccinology and immunoinformatics pipeline used for the computational design and evaluation of a multi-epitope vaccine candidate against* **Neisseria gonorrhoeae**.
 
 ---
 
@@ -45,8 +45,8 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 13. Molecular docking with Toll-like receptor 3 (TLR3).
 14. Molecular dynamics and stability analysis using iMODS.
 15. Codon optimization using JCat.
-17. In silico cloning into the pET-28a(+) expression vector using Serial Cloner.
-18. Immune simulation using C-ImmSim.
+16. In silico cloning into the pET-28a(+) expression vector using Serial Cloner.
+17. Immune simulation using C-ImmSim.
 
 ---
 
@@ -70,6 +70,9 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 | Immune Simulation | C-ImmSim |
 
 ---
+## 📊 Results and Validation
+
+
 
 ## 📊 Key Results
 
@@ -98,4 +101,4 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 - Molecular docking demonstrated favorable interaction with TLR3.
 - iMODS analysis suggested a stable vaccine–receptor complex.
 - Immune simulation predicted robust humoral and cellular immune responses.
-- Codon optimization improved the construct for potential expression in Homo sapien.
+- Codon optimization improved the construct for potential expression in *Escherichia coli*.
