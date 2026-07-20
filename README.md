@@ -72,6 +72,13 @@ The computational workflow followed a reverse vaccinology and immunoinformatics 
 ---
 ## 📊 Results and Validation
 
+### Structural Validation
+
+The refined vaccine construct was evaluated using Ramachandran plot analysis to assess its stereochemical quality.
+
+![Ramachandran Plot](ramachandran.png)
+
+*Figure 2. Ramachandran plot of the refined vaccine construct showing the distribution of residues in favored, allowed, and disallowed regions.*
 
 
 ## 📊 Key Results
