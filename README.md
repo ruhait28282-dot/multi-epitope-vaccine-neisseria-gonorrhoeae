@@ -1,5 +1,13 @@
 # 🧬 Multi-Epitope Vaccine Design Against *Neisseria gonorrhoeae*
 
+## 🧭 Computational Workflow
+
+![Computational Workflow](Workflow/pipleline.png)
+
+*Figure 1. Computational workflow illustrating the reverse vaccinology and immunoinformatics pipeline used for the computational design and evaluation of a multi-epitope vaccine candidate against* **Neisseria gonorrhoeae**.
+
+---
+
 ## Project Overview
 
 This repository documents my undergraduate research project focused on the computational design and evaluation of a multi-epitope vaccine candidate against *Neisseria gonorrhoeae* using reverse vaccinology and immunoinformatics approaches.
