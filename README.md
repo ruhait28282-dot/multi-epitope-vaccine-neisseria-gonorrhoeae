@@ -202,7 +202,7 @@ Immune simulation was performed using C-ImmSim to predict the potential cellular
 - Predicted vaccine construct was non-allergenic and soluble.
 - Structural refinement improved model quality before docking.
 - Molecular docking demonstrated favorable interaction with TLR3.
-- iMODS analysis suggested a stable vaccine–receptor complex.
+- Molecular dynamics and flexibility analyses supported the stability of the vaccine–TLR3 complex.
 - Immune simulation predicted robust humoral and cellular immune responses.
 - Codon optimization improved the construct for potential expression in *Escherichia coli*.
 
@@ -233,8 +233,24 @@ B.S. Biotechnology | Researcher in Immunoinformatics & Computational Vaccine Des
 - Computational biology
 - Structural bioinformatics
 
-### Contact
+  ---
+  
+  ### Contact
 
-- GitHub: https://github.com/ruhait28282-dot
-- LinkedIn: www.linkedin.com/in/rohail-ahmed-81b079377
-- Email: ruhait28282@gmail.com
+- **GitHub:** https://github.com/ruhait28282-dot
+- **LinkedIn:** https://www.linkedin.com/in/rohail-ahmed-81b079377
+- **Email:** ruhait28282@gmail.com
+ 
+ ---
+
+## 📖 Citation
+
+If you use this repository for academic or research purposes, please cite:
+
+**Ahmad, R.** (2026). *Multi-Epitope Vaccine Design Against Neisseria gonorrhoeae: A Reverse Vaccinology and Immunoinformatics Approach*. GitHub repository.
+
+ ---
+
+## 🔑 Keywords
+
+Immunoinformatics • Reverse Vaccinology • Multi-Epitope Vaccine • Bioinformatics • Epitope Prediction • AlphaFold • Molecular Docking • Structural Validation • Molecular Dynamics • Computational Biology
