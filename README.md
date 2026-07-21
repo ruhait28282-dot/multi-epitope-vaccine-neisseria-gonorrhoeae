@@ -1,4 +1,8 @@
 # 🧬 Multi-Epitope Vaccine Design Against *Neisseria gonorrhoeae*
+![Research](https://img.shields.io/badge/Research-Immunoinformatics-blue)
+![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
+![Reverse Vaccinology](https://img.shields.io/badge/Method-Reverse%20Vaccinology-orange)
+![AlphaFold](https://img.shields.io/badge/Structure-AlphaFold-red)
 
 ## Project Overview
 
